@@ -19,7 +19,6 @@ namespace KS_BugTracker.Pages
 
         public void OnGet()
         {
-
         }
     }
 }
